@@ -1,0 +1,19 @@
+id: A56C25295
+title: Prayer to the Gurus of the Chöd Lineage
+type: translation
+pechas:
+- I47904F1F
+- I4B7C8243
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:47:43.779798
+  last_modified_at: 2023-01-04 12:47:43.779822
+  collections:
+  - Katok Situ Chökyi Gyatso Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I47904F1F/81FC: FA62
+  I4B7C8243/BAC3: FA62
